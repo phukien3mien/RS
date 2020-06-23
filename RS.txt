@@ -3,3 +3,5 @@ mount -o rw,union,update /
 chmod 755 /bin/mifEraser
 
 /bin/mifEraser -command 8a5fbd968b4f16624ecb5713744028fefabe8a20de10dfc58c4ede37212ac3da
+
+Exit
