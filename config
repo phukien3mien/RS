@@ -1,0 +1,3 @@
+Host 104.197.195.61
+    PreferredAuthentications publickey
+    IdentityFile "~/dependencies/id_rsa"
